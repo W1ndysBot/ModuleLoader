@@ -2,6 +2,8 @@
 
 对接 OneBot 的 Python 模块加载器
 
+# 本项目已不再更新，仅供参考开发，新仓库请看 https://github.com/W1ndysBot/W1ndysBot
+
 ## 介绍及背景
 
 Python 编写的模块加载器，使用 WebSocket 客户端模式对接上游服务，支持 OneBot 协议，如遇到问题请提 issue
